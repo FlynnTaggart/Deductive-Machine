@@ -38,6 +38,28 @@
 					}
 				},
 				{
+					"mode": "trigger",
+					"path": "/user/hand/left/input/grip",
+					"inputs":
+					{
+						"click":
+						{
+							"output": "/actions/main/in/GrabLeft"
+						}
+					}
+				},
+				{
+					"mode": "trigger",
+					"path": "/user/hand/right/input/grip",
+					"inputs":
+					{
+						"click":
+						{
+							"output": "/actions/main/in/GrabRight"
+						}
+					}
+				},
+				{
 					"mode": "joystick",
 					"path": "/user/hand/right/input/joystick",
 					"inputs":
