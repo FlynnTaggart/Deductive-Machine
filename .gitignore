@@ -75,3 +75,6 @@ DerivedDataCache/*
 
 # Developers folders
 Content/Developers/*
+
+#SteamVR path
+Config/steamvr_ue_editor_app.json
