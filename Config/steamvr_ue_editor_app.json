@@ -1,0 +1,18 @@
+{
+	"source": "UE",
+	"applications": [
+		{
+			"app_key": "application.generated.ue.deductivemachine-15973114.ue4editor.exe",
+			"launch_type": "url",
+			"url": "steam://launch/",
+			"action_manifest_path": "F:/UE/Projects/Deductive-Machine/Config/SteamVRBindings/steamvr_manifest.json",
+			"strings":
+			{
+				"en_us":
+				{
+					"name": "DeductiveMachine-15973114 [UE Editor]"
+				}
+			}
+		}
+	]
+}
