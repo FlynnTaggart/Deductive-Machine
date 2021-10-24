@@ -164,6 +164,30 @@
 			"type": "boolean"
 		},
 		{
+			"name": "/actions/main/in/FlashLight",
+			"type": "boolean"
+		},
+		{
+			"name": "/actions/main/in/Shoot",
+			"type": "boolean"
+		},
+		{
+			"name": "/actions/main/in/Debug_MoveForward axis",
+			"type": "vector1"
+		},
+		{
+			"name": "/actions/main/in/Debug_MoveRight axis",
+			"type": "vector1"
+		},
+		{
+			"name": "/actions/main/in/Debug_LookVertical axis",
+			"type": "vector1"
+		},
+		{
+			"name": "/actions/main/in/Debug_LookHorizontal axis",
+			"type": "vector1"
+		},
+		{
 			"name": "/actions/main/in/Move_Y axis",
 			"type": "vector1"
 		},
@@ -320,6 +344,12 @@
 			"/actions/main/in/RotateLEft": "RotateLEft",
 			"/actions/main/in/GrabLeft": "GrabLeft",
 			"/actions/main/in/GrabRight": "GrabRight",
+			"/actions/main/in/FlashLight": "FlashLight",
+			"/actions/main/in/Shoot": "Shoot",
+			"/actions/main/in/Debug_MoveForward axis": "Debug_MoveForward",
+			"/actions/main/in/Debug_MoveRight axis": "Debug_MoveRight",
+			"/actions/main/in/Debug_LookVertical axis": "Debug_LookVertical",
+			"/actions/main/in/Debug_LookHorizontal axis": "Debug_LookHorizontal",
 			"/actions/main/in/Move_Y axis": "Move_Y",
 			"/actions/main/in/Move_X,Move_Y X Y_axis2d": "Move",
 			"/actions/main/in/Move_X axis": "Move_X",

@@ -60,6 +60,28 @@
 					}
 				},
 				{
+					"mode": "button",
+					"path": "/user/hand/left/input/y",
+					"inputs":
+					{
+						"click":
+						{
+							"output": "/actions/main/in/FlashLight"
+						}
+					}
+				},
+				{
+					"mode": "trigger",
+					"path": "/user/hand/left/input/trigger",
+					"inputs":
+					{
+						"click":
+						{
+							"output": "/actions/main/in/Shoot"
+						}
+					}
+				},
+				{
 					"mode": "joystick",
 					"path": "/user/hand/right/input/joystick",
 					"inputs":
