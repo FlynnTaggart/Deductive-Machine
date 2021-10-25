@@ -60,6 +60,17 @@
 					}
 				},
 				{
+					"mode": "button",
+					"path": "/user/hand/right/input/b",
+					"inputs":
+					{
+						"click":
+						{
+							"output": "/actions/main/in/ShowTablet"
+						}
+					}
+				},
+				{
 					"mode": "joystick",
 					"path": "/user/hand/right/input/joystick",
 					"inputs":
