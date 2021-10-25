@@ -80,6 +80,17 @@
 							"output": "/actions/main/in/Move_X,Move_Y X Y_axis2d"
 						}
 					}
+				},
+				{
+					"mode": "force_sensor",
+					"path": "/user/hand/right/input/grip",
+					"inputs":
+					{
+						"force":
+						{
+							"output": "/actions/main/in/GripRight axis"
+						}
+					}
 				}
 			],
 			"poses": [
