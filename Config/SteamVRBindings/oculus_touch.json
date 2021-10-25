@@ -8,6 +8,17 @@
 		{
 			"sources": [
 				{
+					"mode": "button",
+					"path": "/user/hand/right/input/b",
+					"inputs":
+					{
+						"click":
+						{
+							"output": "/actions/main/in/ShowTablet"
+						}
+					}
+				},
+				{
 					"mode": "dpad",
 					"path": "/user/hand/right/input/joystick",
 					"parameters":
@@ -56,17 +67,6 @@
 						"click":
 						{
 							"output": "/actions/main/in/GrabRight"
-						}
-					}
-				},
-				{
-					"mode": "button",
-					"path": "/user/hand/right/input/b",
-					"inputs":
-					{
-						"click":
-						{
-							"output": "/actions/main/in/ShowTablet"
 						}
 					}
 				},
